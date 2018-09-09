@@ -8,7 +8,7 @@ For the best experience clone the repo and open the notebooks locally. Github do
 
 ## Posts
 ### [Lecture 1](https://medium.com/@lgendrot/teaching-myself-reinforcement-learning-7b4157ee3b68): Not another RL Tutorial!
-An overview of the RL problem. Lays some of the groundwork for more rigerous posts to come.
+An overview of the RL problem. Lays some of the groundwork for more rigorous posts to come.
 
 
 ### [Lecture 2](https://medium.com/@lgendrot/teaching-myself-rl-eef155ef5e4a): Chains, Rewards, and Decision Processes, Oh My!
