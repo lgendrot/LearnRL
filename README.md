@@ -6,7 +6,7 @@ Most if not all images are stolen from his lecture slides, and the blog posts li
 For the best experience clone the repo and open the notebooks locally. Github doesn't support images in jupyter markdown cells.
 
 
-##Posts
+## Posts
 ### [Lecture 1](https://medium.com/@lgendrot/teaching-myself-reinforcement-learning-7b4157ee3b68): Not another RL Tutorial!
 An overview of the RL problem. Lays some of the groundwork for more rigerous posts to come.
 
