@@ -1,5 +1,5 @@
 # LearnRL
-A series of blog posts and associated python code samples that closely mirror the infamous Lecture Series by David Silver. 
+A series of blog posts and associated python code samples that closely mirror the infamous [Lecture Series by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&index=1&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ). 
 
 Most if not all images are stolen from his lecture slides, and the blog posts linked below all follow the lectures in structure.
 
